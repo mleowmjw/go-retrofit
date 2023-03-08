@@ -5,3 +5,6 @@ Try out:
 - Tempooral
 - Cerbos
 
+Golang Code; try out the tooling ..
+
+- AmalGomate github.com/palantir/amalgomate
