@@ -1,6 +1,9 @@
 run:
 	@go run .
 
+nats:
+	@./godelw format && ./godelw run nats
+
 build:
 	@./godelw format && ./godelw run go-retrofit
 
